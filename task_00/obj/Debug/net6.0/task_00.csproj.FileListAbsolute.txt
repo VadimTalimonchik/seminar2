@@ -3,3 +3,13 @@ D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrain
 D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_2_2\task_00\obj\Debug\net6.0\task_00.AssemblyInfoInputs.cache
 D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_2_2\task_00\obj\Debug\net6.0\task_00.AssemblyInfo.cs
 D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_2_2\task_00\obj\Debug\net6.0\task_00.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_2_2\task_00\bin\Debug\net6.0\task_00.exe
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_2_2\task_00\bin\Debug\net6.0\task_00.deps.json
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_2_2\task_00\bin\Debug\net6.0\task_00.runtimeconfig.json
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_2_2\task_00\bin\Debug\net6.0\task_00.dll
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_2_2\task_00\bin\Debug\net6.0\task_00.pdb
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_2_2\task_00\obj\Debug\net6.0\task_00.dll
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_2_2\task_00\obj\Debug\net6.0\refint\task_00.dll
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_2_2\task_00\obj\Debug\net6.0\task_00.pdb
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_2_2\task_00\obj\Debug\net6.0\task_00.genruntimeconfig.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_2_2\task_00\obj\Debug\net6.0\ref\task_00.dll
